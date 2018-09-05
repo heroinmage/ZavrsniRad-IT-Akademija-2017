@@ -1,2 +1,2 @@
-# ZavrsniRad-IT-Akademija-2017
+# Aplikacija za vodjenje stomatoloske ordinacije
 Desktop aplikacija za osnovno vodjenje stomatoloske ordinacije
